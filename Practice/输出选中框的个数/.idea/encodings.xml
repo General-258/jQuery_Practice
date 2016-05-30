@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../toggle方法/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../val（）方法/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../val（）方法的选中功能/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../三种方法包裹节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../下拉框应用/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../下拉框应用/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../事件绑定/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../事件绑定/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../创建节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../单文本框应用--获取和失去焦点改变样式/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../单文本框应用--获取和失去焦点改变样式/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../合成事件/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../图片提示效果/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../图片提示效果/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../复选框的应用/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../多行文本框的应用/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../对原有的DOM元素进行移动/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../控制网页字体大小/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../插入节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../替换节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../样式操作/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../样式操作/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../用clone（）方法复制节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../用detach（）删除节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../用empty（）方法删除节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../用remove（）方法删除节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../网站品牌列表效果/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../网站品牌列表效果/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../网页换肤/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../网页换肤/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../网页选项卡/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../自定义的简单动画/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../获取，设置，和删除属性/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../表单验证/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../表单验证/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../表格变色/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../表格变色/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../视频展示效果/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../超链接提示效果/test.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../超链接提示效果/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../遍历节点/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../阻止事件冒泡/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../阻止默认行为/test.js" charset="UTF-8" />
+  </component>
+</project>

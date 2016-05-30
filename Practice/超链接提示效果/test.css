@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background: #fff;
+    color: #555;
+}
+p{
+    clear: both;
+    margin: 0;
+    padding: 5em 0;
+}
+#tooltip{
+    position: absolute;
+    border: 1px solid #333;
+    padding: 1px;
+    color: #333;
+    display: none;
+}
